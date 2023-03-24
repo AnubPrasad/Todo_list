@@ -1,2 +1,1 @@
-# Todo_list
-Todo_list
+#Simple Todo list
